@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>In Our Time: Ecology, Evolution &amp; Conservation</title>
+  <link>https://www.bbc.co.uk/programmes/b006qykl</link>
+  <description>Unofficial filtered feed of BBC Radio 4's In Our Time: episodes on ecology, evolution, natural history and palaeontology. Audio is served by the BBC.</description>
+  <language>en-gb</language>
+  <itunes:author>BBC Radio 4</itunes:author>
+  <item>
+    <title>Seashells</title>
+    <description>In Our Time (BBC Radio 4): Seashells</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nw62hn.mp3" length="51344000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m002ybkj</guid>
+    <pubDate>Thu, 30 Jul 2026 08:02:00 +0000</pubDate>
+    <itunes:duration>3209</itunes:duration>
+  </item>
+  <item>
+    <title>The Evolution of Trees</title>
+    <description>In Our Time (BBC Radio 4): The Evolution of Trees</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0npng58.mp3" length="52528000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m002x5jl</guid>
+    <pubDate>Thu, 02 Jul 2026 09:15:00 +0000</pubDate>
+    <itunes:duration>3283</itunes:duration>
+  </item>
+  <item>
+    <title>Archaea</title>
+    <description>In Our Time (BBC Radio 4): Archaea</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n5pwmd.mp3" length="50992000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m002sg10</guid>
+    <pubDate>Thu, 09 Apr 2026 09:15:00 +0000</pubDate>
+    <itunes:duration>3187</itunes:duration>
+  </item>
+  <item>
+    <title>The Mariana Trench</title>
+    <description>In Our Time (BBC Radio 4): The Mariana Trench</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mw2pfd.mp3" length="55744000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m002q38k</guid>
+    <pubDate>Thu, 19 Feb 2026 10:15:00 +0000</pubDate>
+    <itunes:duration>3484</itunes:duration>
+  </item>
+  <item>
+    <title>The Evolution of Lungs</title>
+    <description>In Our Time (BBC Radio 4): The Evolution of Lungs</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lhfk3d.mp3" length="46464000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m002d8t2</guid>
+    <pubDate>Thu, 10 Jul 2025 09:15:00 +0000</pubDate>
+    <itunes:duration>2904</itunes:duration>
+  </item>
+  <item>
+    <title>Pollination</title>
+    <description>In Our Time (BBC Radio 4): Pollination</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kw7x23.mp3" length="48160000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m0028jtx</guid>
+    <pubDate>Thu, 03 Apr 2025 09:15:00 +0000</pubDate>
+    <itunes:duration>3010</itunes:duration>
+  </item>
+  <item>
+    <title>Slime Moulds</title>
+    <description>In Our Time (BBC Radio 4): Slime Moulds</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kcshj1.mp3" length="49440000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m002691y</guid>
+    <pubDate>Thu, 30 Jan 2025 09:02:00 +0000</pubDate>
+    <itunes:duration>3090</itunes:duration>
+  </item>
+  <item>
+    <title>Plankton</title>
+    <description>In Our Time (BBC Radio 4): Plankton</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0gjdbl0.mp3" length="46736000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m001r1t5</guid>
+    <pubDate>Thu, 02 Nov 2023 10:15:00 +0000</pubDate>
+    <itunes:duration>2921</itunes:duration>
+  </item>
+  <item>
+    <title>Mitochondria</title>
+    <description>In Our Time (BBC Radio 4): Mitochondria</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0frgycd.mp3" length="50384000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m001md34</guid>
+    <pubDate>Thu, 29 Jun 2023 09:15:00 +0000</pubDate>
+    <itunes:duration>3149</itunes:duration>
+  </item>
+  <item>
+    <title>Linnaeus</title>
+    <description>In Our Time (BBC Radio 4): Linnaeus</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0fhkvpb.mp3" length="48304000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m001l291</guid>
+    <pubDate>Thu, 18 May 2023 09:15:00 +0000</pubDate>
+    <itunes:duration>3019</itunes:duration>
+  </item>
+  <item>
+    <title>The Challenger Expedition 1872-1876</title>
+    <description>In Our Time (BBC Radio 4): The Challenger Expedition 1872-1876</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0dhyvdg.mp3" length="49184000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m001fcvd</guid>
+    <pubDate>Thu, 22 Dec 2022 10:15:00 +0000</pubDate>
+    <itunes:duration>3074</itunes:duration>
+  </item>
+  <item>
+    <title>The Fish-Tetrapod Transition</title>
+    <description>In Our Time (BBC Radio 4): The Fish-Tetrapod Transition</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0d7rbl0.mp3" length="53328000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m001d56q</guid>
+    <pubDate>Thu, 17 Nov 2022 10:15:00 +0000</pubDate>
+    <itunes:duration>3333</itunes:duration>
+  </item>
+  <item>
+    <title>Homo erectus</title>
+    <description>In Our Time (BBC Radio 4): Homo erectus</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0c0thr6.mp3" length="49008000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m00168lg</guid>
+    <pubDate>Thu, 12 May 2022 09:15:00 +0000</pubDate>
+    <itunes:duration>3063</itunes:duration>
+  </item>
+  <item>
+    <title>Corals</title>
+    <description>In Our Time (BBC Radio 4): Corals</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0b0nw5v.mp3" length="49520000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m0010xnr</guid>
+    <pubDate>Thu, 28 Oct 2021 09:15:00 +0000</pubDate>
+    <itunes:duration>3095</itunes:duration>
+  </item>
+  <item>
+    <title>The Evolution of Crocodiles</title>
+    <description>In Our Time (BBC Radio 4): The Evolution of Crocodiles</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09w0f8z.mp3" length="50992000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m000zmhf</guid>
+    <pubDate>Thu, 16 Sep 2021 09:15:00 +0000</pubDate>
+    <itunes:duration>3187</itunes:duration>
+  </item>
+  <item>
+    <title>The Late Devonian Extinction</title>
+    <description>In Our Time (BBC Radio 4): The Late Devonian Extinction</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0997097.mp3" length="47120000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m000sz7x</guid>
+    <pubDate>Thu, 11 Mar 2021 10:15:00 +0000</pubDate>
+    <itunes:duration>2945</itunes:duration>
+  </item>
+  <item>
+    <title>The Evolution of Horses</title>
+    <description>In Our Time (BBC Radio 4): The Evolution of Horses</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p084y2k3.mp3" length="48160000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m000fp9y</guid>
+    <pubDate>Thu, 27 Feb 2020 10:15:00 +0000</pubDate>
+    <itunes:duration>3010</itunes:duration>
+  </item>
+  <item>
+    <title>Hybrids</title>
+    <description>In Our Time (BBC Radio 4): Hybrids</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p07slpq9.mp3" length="48784000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m0009t41</guid>
+    <pubDate>Thu, 31 Oct 2019 10:23:00 +0000</pubDate>
+    <itunes:duration>3049</itunes:duration>
+  </item>
+  <item>
+    <title>The Evolution of Teeth</title>
+    <description>In Our Time (BBC Radio 4): The Evolution of Teeth</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p07659pk.mp3" length="47280000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m0003zbg</guid>
+    <pubDate>Thu, 11 Apr 2019 09:25:00 +0000</pubDate>
+    <itunes:duration>2955</itunes:duration>
+  </item>
+  <item>
+    <title>Pheromones</title>
+    <description>In Our Time (BBC Radio 4): Pheromones</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p071jzyp.mp3" length="47184000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m0002mdl</guid>
+    <pubDate>Thu, 21 Feb 2019 10:15:00 +0000</pubDate>
+    <itunes:duration>2949</itunes:duration>
+  </item>
+  <item>
+    <title>Aristotle's Biology</title>
+    <description>In Our Time (BBC Radio 4): Aristotle's Biology</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0706lr7.mp3" length="48160000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:m0002cfd</guid>
+    <pubDate>Thu, 07 Feb 2019 10:19:00 +0000</pubDate>
+    <itunes:duration>3010</itunes:duration>
+  </item>
+  <item>
+    <title>Echolocation</title>
+    <description>In Our Time (BBC Radio 4): Echolocation</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p06bq3dc.mp3" length="48992000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:b0b6hrl3</guid>
+    <pubDate>Thu, 21 Jun 2018 10:44:00 +0000</pubDate>
+    <itunes:duration>3062</itunes:duration>
+  </item>
+  <item>
+    <title>Fungi</title>
+    <description>In Our Time (BBC Radio 4): Fungi</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p05y849q.mp3" length="46672000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:b09r3nwl</guid>
+    <pubDate>Thu, 15 Feb 2018 11:14:00 +0000</pubDate>
+    <itunes:duration>2917</itunes:duration>
+  </item>
+  <item>
+    <title>Cephalopods</title>
+    <description>In Our Time (BBC Radio 4): Cephalopods</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p05ws1yt.mp3" length="45424000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:b09pjgrn</guid>
+    <pubDate>Thu, 01 Feb 2018 11:01:00 +0000</pubDate>
+    <itunes:duration>2839</itunes:duration>
+  </item>
+  <item>
+    <title>Feathered Dinosaurs</title>
+    <description>In Our Time (BBC Radio 4): Feathered Dinosaurs</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p05l1mks.mp3" length="46352000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:b099v33p</guid>
+    <pubDate>Thu, 26 Oct 2017 10:37:00 +0000</pubDate>
+    <itunes:duration>2897</itunes:duration>
+  </item>
+  <item>
+    <title>Bird Migration</title>
+    <description>In Our Time (BBC Radio 4): Bird Migration</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p057x1xr.mp3" length="49184000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:b08wmk5j</guid>
+    <pubDate>Thu, 06 Jul 2017 10:09:00 +0000</pubDate>
+    <itunes:duration>3074</itunes:duration>
+  </item>
+  <item>
+    <title>The Paleocene-Eocene Thermal Maximum</title>
+    <description>In Our Time (BBC Radio 4): The Paleocene-Eocene Thermal Maximum</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p04x134j.mp3" length="47792000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:b08hpmmf</guid>
+    <pubDate>Thu, 16 Mar 2017 11:34:00 +0000</pubDate>
+    <itunes:duration>2987</itunes:duration>
+  </item>
+  <item>
+    <title>Parasitism</title>
+    <description>In Our Time (BBC Radio 4): Parasitism</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kbwvqs.mp3" length="43920000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:b08bb9cy</guid>
+    <pubDate>Thu, 26 Jan 2017 11:54:00 +0000</pubDate>
+    <itunes:duration>2745</itunes:duration>
+  </item>
+  <item>
+    <title>Extremophiles</title>
+    <description>In Our Time (BBC Radio 4): Extremophiles</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02vk15n.mp3" length="44592000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:b05zl3v2</guid>
+    <pubDate>Thu, 25 Jun 2015 10:36:00 +0000</pubDate>
+    <itunes:duration>2787</itunes:duration>
+  </item>
+  <item>
+    <title>Behavioural Ecology</title>
+    <description>In Our Time (BBC Radio 4): Behavioural Ecology</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q599t.mp3" length="43760000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iot/iot_20141211-1130.mp3</guid>
+    <pubDate>Thu, 11 Dec 2014 11:30:00 +0000</pubDate>
+    <itunes:duration>2735</itunes:duration>
+  </item>
+  <item>
+    <title>Photosynthesis</title>
+    <description>In Our Time (BBC Radio 4): Photosynthesis</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q59jd.mp3" length="44912000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iot/iot_20140515-1145.mp3</guid>
+    <pubDate>Thu, 15 May 2014 10:45:00 +0000</pubDate>
+    <itunes:duration>2807</itunes:duration>
+  </item>
+  <item>
+    <title>The Eye</title>
+    <description>In Our Time (BBC Radio 4): The Eye</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q59mv.mp3" length="40496000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iot/iot_20140227-1100.mp3</guid>
+    <pubDate>Thu, 27 Feb 2014 11:00:00 +0000</pubDate>
+    <itunes:duration>2531</itunes:duration>
+  </item>
+  <item>
+    <title>Catastrophism</title>
+    <description>In Our Time (BBC Radio 4): Catastrophism</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q59ny.mp3" length="40224000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iot/iot_20140130-1100.mp3</guid>
+    <pubDate>Thu, 30 Jan 2014 11:00:00 +0000</pubDate>
+    <itunes:duration>2514</itunes:duration>
+  </item>
+  <item>
+    <title>Alfred Russel Wallace</title>
+    <description>In Our Time (BBC Radio 4): Alfred Russel Wallace</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5b2w.mp3" length="40464000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iot/iot_20130321-1115.mp3</guid>
+    <pubDate>Thu, 21 Mar 2013 11:15:00 +0000</pubDate>
+    <itunes:duration>2529</itunes:duration>
+  </item>
+  <item>
+    <title>Ice Ages</title>
+    <description>In Our Time (BBC Radio 4): Ice Ages</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5b5c.mp3" length="40480000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iot/iot_20130214-1145.mp3</guid>
+    <pubDate>Thu, 14 Feb 2013 11:45:00 +0000</pubDate>
+    <itunes:duration>2530</itunes:duration>
+  </item>
+  <item>
+    <title>The Origins of Infectious Disease</title>
+    <description>In Our Time (BBC Radio 4): The Origins of Infectious Disease</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5q32.mp3" length="40256000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20110608-1657.mp3</guid>
+    <pubDate>Wed, 08 Jun 2011 15:57:00 +0000</pubDate>
+    <itunes:duration>2516</itunes:duration>
+  </item>
+  <item>
+    <title>The Neanderthals</title>
+    <description>In Our Time (BBC Radio 4): The Neanderthals</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5dcv.mp3" length="40528000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20100617-0900.mp3</guid>
+    <pubDate>Thu, 17 Jun 2010 08:00:00 +0000</pubDate>
+    <itunes:duration>2533</itunes:duration>
+  </item>
+  <item>
+    <title>Ediacara Biota</title>
+    <description>In Our Time (BBC Radio 4): Ediacara Biota</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5r4k.mp3" length="40624000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20090709-0900.mp3</guid>
+    <pubDate>Thu, 09 Jul 2009 08:00:00 +0000</pubDate>
+    <itunes:duration>2539</itunes:duration>
+  </item>
+  <item>
+    <title>The Whale - A History</title>
+    <description>In Our Time (BBC Radio 4): The Whale - A History</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02r5hl3.mp3" length="40704000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iotc/iotc_20090521-0900.mp3</guid>
+    <pubDate>Thu, 21 May 2009 08:00:00 +0000</pubDate>
+    <itunes:duration>2544</itunes:duration>
+  </item>
+  <item>
+    <title>Darwin: Life After Origins</title>
+    <description>In Our Time (BBC Radio 4): Darwin: Life After Origins</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p032qcx0.mp3" length="40400000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:b00gdhqf</guid>
+    <pubDate>Thu, 08 Jan 2009 09:22:00 +0000</pubDate>
+    <itunes:duration>2525</itunes:duration>
+  </item>
+  <item>
+    <title>Darwin: On the Origin of Species</title>
+    <description>In Our Time (BBC Radio 4): Darwin: On the Origin of Species</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p032qcvx.mp3" length="40448000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:b00gd3wy</guid>
+    <pubDate>Wed, 07 Jan 2009 09:20:00 +0000</pubDate>
+    <itunes:duration>2528</itunes:duration>
+  </item>
+  <item>
+    <title>Darwin: The Voyage of the Beagle</title>
+    <description>In Our Time (BBC Radio 4): Darwin: The Voyage of the Beagle</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p032qfhp.mp3" length="41088000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:b00gbf2g</guid>
+    <pubDate>Tue, 06 Jan 2009 10:01:00 +0000</pubDate>
+    <itunes:duration>2568</itunes:duration>
+  </item>
+  <item>
+    <title>Darwin: On the Origins of Charles Darwin</title>
+    <description>In Our Time (BBC Radio 4): Darwin: On the Origins of Charles Darwin</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p032qcsq.mp3" length="41024000" type="audio/mpeg"/>
+    <guid isPermaLink="false">urn:bbc:podcast:b00g9z9x</guid>
+    <pubDate>Mon, 05 Jan 2009 09:14:00 +0000</pubDate>
+    <itunes:duration>2564</itunes:duration>
+  </item>
+  <item>
+    <title>Genetic Mutation</title>
+    <description>In Our Time (BBC Radio 4): Genetic Mutation</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5wnn.mp3" length="40272000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20071206-0900.mp3</guid>
+    <pubDate>Thu, 06 Dec 2007 09:00:00 +0000</pubDate>
+    <itunes:duration>2517</itunes:duration>
+  </item>
+  <item>
+    <title>The Permian-Triassic Boundary</title>
+    <description>In Our Time (BBC Radio 4): The Permian-Triassic Boundary</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5wrb.mp3" length="40480000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20070628-0900.mp3</guid>
+    <pubDate>Thu, 28 Jun 2007 08:00:00 +0000</pubDate>
+    <itunes:duration>2530</itunes:duration>
+  </item>
+  <item>
+    <title>Altruism</title>
+    <description>In Our Time (BBC Radio 4): Altruism</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5ns7.mp3" length="40448000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20061123-0900.mp3</guid>
+    <pubDate>Thu, 23 Nov 2006 09:00:00 +0000</pubDate>
+    <itunes:duration>2528</itunes:duration>
+  </item>
+  <item>
+    <title>Humboldt</title>
+    <description>In Our Time (BBC Radio 4): Humboldt</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5x1t.mp3" length="40320000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20060928-0900.mp3</guid>
+    <pubDate>Thu, 28 Sep 2006 08:00:00 +0000</pubDate>
+    <itunes:duration>2520</itunes:duration>
+  </item>
+  <item>
+    <title>Human Evolution</title>
+    <description>In Our Time (BBC Radio 4): Human Evolution</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5x86.mp3" length="27056000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20060216-0900.mp3</guid>
+    <pubDate>Thu, 16 Feb 2006 09:00:00 +0000</pubDate>
+    <itunes:duration>1691</itunes:duration>
+  </item>
+  <item>
+    <title>Mammals</title>
+    <description>In Our Time (BBC Radio 4): Mammals</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5xd7.mp3" length="40288000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20051013-0900.mp3</guid>
+    <pubDate>Thu, 13 Oct 2005 08:00:00 +0000</pubDate>
+    <itunes:duration>2518</itunes:duration>
+  </item>
+  <item>
+    <title>The KT Boundary</title>
+    <description>In Our Time (BBC Radio 4): The KT Boundary</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5xfc.mp3" length="40528000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20050623-0900.mp3</guid>
+    <pubDate>Thu, 23 Jun 2005 08:00:00 +0000</pubDate>
+    <itunes:duration>2533</itunes:duration>
+  </item>
+  <item>
+    <title>The Cambrian Period</title>
+    <description>In Our Time (BBC Radio 4): The Cambrian Period</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5xk9.mp3" length="40592000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20050217-0900.mp3</guid>
+    <pubDate>Thu, 17 Feb 2005 09:00:00 +0000</pubDate>
+    <itunes:duration>2537</itunes:duration>
+  </item>
+  <item>
+    <title>The Origins of Life</title>
+    <description>In Our Time (BBC Radio 4): The Origins of Life</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5xt5.mp3" length="27152000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20040923-0900.mp3</guid>
+    <pubDate>Thu, 23 Sep 2004 08:00:00 +0000</pubDate>
+    <itunes:duration>1697</itunes:duration>
+  </item>
+  <item>
+    <title>Lamarck and Natural Selection</title>
+    <description>In Our Time (BBC Radio 4): Lamarck and Natural Selection</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5y13.mp3" length="54736000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20031224-0900.mp3</guid>
+    <pubDate>Wed, 24 Dec 2003 09:00:00 +0000</pubDate>
+    <itunes:duration>3421</itunes:duration>
+  </item>
+  <item>
+    <title>Chance and Design</title>
+    <description>In Our Time (BBC Radio 4): Chance and Design</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5y97.mp3" length="27040000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20030213-0900.mp3</guid>
+    <pubDate>Thu, 13 Feb 2003 09:00:00 +0000</pubDate>
+    <itunes:duration>1690</itunes:duration>
+  </item>
+  <item>
+    <title>Fossils</title>
+    <description>In Our Time (BBC Radio 4): Fossils</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5yjc.mp3" length="40592000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20010322-0900.mp3</guid>
+    <pubDate>Thu, 22 Mar 2001 09:00:00 +0000</pubDate>
+    <itunes:duration>2537</itunes:duration>
+  </item>
+  <item>
+    <title>Evolutionary Psychology</title>
+    <description>In Our Time (BBC Radio 4): Evolutionary Psychology</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q60hs.mp3" length="27168000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20001102-0900.mp3</guid>
+    <pubDate>Thu, 02 Nov 2000 09:00:00 +0000</pubDate>
+    <itunes:duration>1698</itunes:duration>
+  </item>
+  <item>
+    <title>Human Origins</title>
+    <description>In Our Time (BBC Radio 4): Human Origins</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q60ph.mp3" length="26976000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20000427-0900.mp3</guid>
+    <pubDate>Thu, 27 Apr 2000 08:00:00 +0000</pubDate>
+    <itunes:duration>1686</itunes:duration>
+  </item>
+  <item>
+    <title>Climate Change</title>
+    <description>In Our Time (BBC Radio 4): Climate Change</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q60t1.mp3" length="26400000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20000106-0900.mp3</guid>
+    <pubDate>Thu, 06 Jan 2000 09:00:00 +0000</pubDate>
+    <itunes:duration>1650</itunes:duration>
+  </item>
+  <item>
+    <title>Evolution</title>
+    <description>In Our Time (BBC Radio 4): Evolution</description>
+    <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q6113.mp3" length="27136000" type="audio/mpeg"/>
+    <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19990415-0900.mp3</guid>
+    <pubDate>Thu, 15 Apr 1999 08:00:00 +0000</pubDate>
+    <itunes:duration>1696</itunes:duration>
+  </item>
+</channel>
+</rss>
